@@ -1,0 +1,7 @@
+print(''' TWINKLE TWINKLE LITTLE STAR
+HOW I WONDER WHAT YOU FUC**** ARE !
+
+
+''')
+
+print("DHURANDHAR ")
