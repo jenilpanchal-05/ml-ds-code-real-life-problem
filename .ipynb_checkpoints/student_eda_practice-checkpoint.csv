@@ -1,0 +1,151 @@
+student_id,age,city,course,gender,study_hours,attendance,assignments_completed,exam_score,monthly_expense,signup_date,lead_source
+1001,23.0,Pune,Electronics,Male,8.5,96.1,7,46.2,14649.0,2025-01-01,Instagram
+1002,20.0,Surat,Mechanical,Male,1.3,81.3,4,56.9,4298.0,2025-01-04,Google
+1003,24.0,Jaipur,Computer Science,Female,4.3,87.7,15,54.4,12537.0,2025-01-07,Referral
+1004,21.0,Mumbai,Computer Science,Male,8.7,89.1,10,69.6,12100.0,2025-01-10,Google
+1005,23.0,Delhi,Mechanical,Male,5.4,72.0,3,,7791.0,2025-01-13,Referral
+1006,19.0,Ahmedabad,Computer Science,Female,4.4,65.8,12,53.4,7995.0,2025-01-16,Referral
+1007,23.0,Bengaluru,Mechanical,Female,5.5,64.2,9,56.5,12400.0,2025-01-19,YouTube
+1008,24.0,Ahmedabad,Electronics,Male,5.6,66.3,11,43.1,16173.0,2025-01-22,College Event
+1009,21.0,Ahmedabad,Mechanical,Female,6.9,67.4,4,79.4,17394.0,2025-01-25,Referral
+1010,20.0,Delhi,Electronics,Male,2.0,64.3,14,44.6,13630.0,2025-01-28,YouTube
+1011,24.0,Ahmedabad,Mechanical,Female,,94.5,13,28.7,8784.0,2025-01-31,College Event
+1012,24.0,Mumbai,Computer Science,Male,5.6,89.1,6,40.3,17722.0,2025-02-03,Referral
+1013,19.0,Mumbai,Mechanical,Female,,57.1,7,52.2,,2025-02-06,Referral
+1014,22.0,Pune,Computer Science,Male,5.5,67.1,11,79.3,3800.0,2025-02-09,Google
+1015,21.0,Surat,Mechanical,Male,2.9,56.0,7,51.5,9369.0,2025-02-12,Google
+1016,18.0,Jaipur,Mechanical,Male,6.4,77.4,5,62.1,11935.0,2025-02-15,College Event
+1017,24.0,Bengaluru,Data Science,Female,6.9,76.4,4,33.9,14668.0,2025-02-18,Referral
+1018,22.0,Ahmedabad,Computer Science,Male,,92.4,5,57.4,5597.0,2025-02-21,Instagram
+1019,18.0,Ahmedabad,Data Science,Male,4.0,68.8,2,22.0,7116.0,2025-02-24,Google
+1020,21.0,Delhi,Computer Science,Female,5.3,91.7,5,40.9,16594.0,2025-02-27,College Event
+1021,17.0,Surat,Data Science,Female,5.0,98.6,2,57.6,2509.0,2025-03-02,Referral
+1022,22.0,Mumbai,Electronics,Male,4.1,59.0,13,49.9,15771.0,2025-03-05,Referral
+1023,25.0,Bengaluru,Mechanical,Male,3.4,90.6,2,60.6,13117.0,2025-03-08,Instagram
+1024,17.0,Pune,Computer Science,Female,1.8,81.5,11,40.3,8252.0,2025-03-11,College Event
+1025,19.0,Mumbai,Computer Science,Female,1.4,76.6,15,37.6,12352.0,2025-03-14,Referral
+1026,23.0,Surat,Mechanical,Female,8.7,73.9,7,48.3,17517.0,2025-03-17,Google
+1027,20.0,Jaipur,Computer Science,Female,7.8,90.3,6,52.0,13323.0,2025-03-20,Instagram
+1028,25.0,Pune,Computer Science,Female,3.8,83.8,15,67.7,8795.0,2025-03-23,College Event
+1029,19.0,Jaipur,Data Science,Male,,91.2,12,43.4,7315.0,2025-03-26,Instagram
+1030,21.0,Delhi,Computer Science,Female,6.4,95.6,5,50.7,3572.0,2025-03-29,Google
+1031,19.0,Delhi,Electronics,Male,4.9,82.8,14,45.2,5725.0,2025-04-01,College Event
+1032,23.0,,Electronics,Male,4.9,99.1,12,34.1,15646.0,2025-04-04,Instagram
+1033,21.0,Jaipur,Mechanical,Male,1.7,82.4,4,36.2,3816.0,2025-04-07,YouTube
+1034,25.0,Surat,Computer Science,Female,1.7,83.6,2,29.4,8199.0,2025-04-10,Google
+1035,23.0,Bengaluru,Mechanical,Male,5.8,80.0,7,52.2,14837.0,2025-04-13,Google
+1036,18.0,Pune,Electronics,Male,5.4,59.1,3,26.3,9307.0,2025-04-16,Google
+1037,20.0,Mumbai,Computer Science,Female,2.7,87.7,9,57.8,9174.0,2025-04-19,YouTube
+1038,25.0,Surat,Computer Science,Male,8.6,79.6,11,46.4,6183.0,2025-04-22,YouTube
+1039,18.0,Surat,Mechanical,Male,7.3,75.3,6,,9727.0,2025-04-25,Referral
+1040,25.0,Delhi,Electronics,Female,1.9,96.0,8,33.6,5773.0,2025-04-28,Instagram
+1041,21.0,Jaipur,Computer Science,Male,8.4,68.4,11,40.7,9500.0,2025-05-01,Referral
+1042,18.0,Ahmedabad,Mechanical,Male,8.8,78.6,13,50.3,2645.0,2025-05-04,Instagram
+1043,20.0,Ahmedabad,Electronics,Male,9.0,86.4,3,53.5,7510.0,2025-05-07,YouTube
+1044,23.0,Pune,Mechanical,Female,1.4,90.8,14,53.1,5540.0,2025-05-10,YouTube
+1045,24.0,Delhi,Data Science,Female,6.9,75.7,9,41.0,12154.0,2025-05-13,Referral
+1046,19.0,Surat,Computer Science,Female,5.4,92.9,3,47.0,17077.0,2025-05-16,College Event
+1047,,Bengaluru,Data Science,Male,6.6,89.6,5,71.9,15368.0,2025-05-19,Referral
+1048,20.0,Delhi,Electronics,Male,8.7,58.0,2,37.1,17522.0,2025-05-22,Instagram
+1049,18.0,Pune,Data Science,Female,6.5,57.1,6,43.7,12276.0,2025-05-25,Referral
+1050,24.0,Pune,Data Science,Male,7.7,82.9,10,61.4,2982.0,2025-05-28,Google
+1051,20.0,Delhi,Electronics,Male,7.9,70.6,2,37.8,5679.0,2025-05-31,Instagram
+1052,18.0,Pune,Mechanical,Female,7.7,64.4,10,61.2,3749.0,2025-06-03,Instagram
+1053,22.0,Delhi,Data Science,Female,4.4,81.1,12,52.9,15460.0,2025-06-06,College Event
+1054,,Mumbai,Mechanical,Male,2.8,70.4,9,41.2,3130.0,2025-06-09,YouTube
+1055,20.0,Delhi,Data Science,Male,4.2,79.2,7,40.3,17496.0,2025-06-12,Instagram
+1056,22.0,Jaipur,Mechanical,Male,8.1,75.7,8,52.4,11353.0,2025-06-15,YouTube
+1057,18.0,Delhi,Electronics,Female,2.2,81.3,4,48.2,14195.0,2025-06-18,Referral
+1058,18.0,Pune,Data Science,Female,5.1,73.0,15,52.6,5352.0,2025-06-21,Google
+1059,20.0,Jaipur,Electronics,Female,2.9,86.4,2,48.4,13158.0,2025-06-24,College Event
+1060,24.0,Pune,Data Science,Female,5.7,63.1,6,53.3,3487.0,2025-06-27,YouTube
+1061,23.0,Ahmedabad,Electronics,Male,7.9,86.3,15,80.6,10122.0,2025-06-30,Instagram
+1062,25.0,Ahmedabad,Electronics,Female,8.0,73.5,13,43.6,9827.0,2025-07-03,YouTube
+1063,,Jaipur,Data Science,Female,2.9,94.3,13,61.8,12238.0,2025-07-06,Instagram
+1064,21.0,Mumbai,Data Science,Female,8.3,78.2,3,67.1,11341.0,2025-07-09,YouTube
+1065,18.0,Ahmedabad,Data Science,Female,5.7,,15,48.8,11660.0,2025-07-12,Instagram
+1066,21.0,Delhi,Computer Science,Female,3.8,82.1,6,42.6,13329.0,2025-07-15,Referral
+1067,24.0,Pune,Mechanical,Male,6.7,65.1,9,40.8,3600.0,2025-07-18,Instagram
+1068,25.0,Ahmedabad,Computer Science,Male,4.9,92.0,12,32.7,9152.0,2025-07-21,Instagram
+1069,25.0,Ahmedabad,Computer Science,Female,4.0,70.5,10,60.1,11132.0,2025-07-24,Google
+1070,17.0,Mumbai,Electronics,Male,6.6,70.6,3,43.1,9921.0,2025-07-27,Instagram
+1071,25.0,Jaipur,Data Science,Female,3.0,56.4,13,37.1,7516.0,2025-07-30,Google
+1072,23.0,Jaipur,Mechanical,Female,3.6,79.7,4,26.4,3269.0,2025-08-02,College Event
+1073,25.0,Surat,Electronics,Male,4.5,79.0,4,37.1,3843.0,2025-08-05,Google
+1074,24.0,Mumbai,Computer Science,Male,3.0,71.0,2,66.3,16614.0,2025-08-08,Referral
+1075,17.0,Delhi,Data Science,Female,4.2,95.2,9,44.5,6858.0,2025-08-11,Google
+1076,24.0,Jaipur,Electronics,Female,5.6,60.8,7,58.9,14421.0,2025-08-14,College Event
+1077,24.0,Pune,Data Science,Female,6.9,69.9,13,51.7,14598.0,2025-08-17,Referral
+1078,19.0,Mumbai,Electronics,Male,7.1,,14,39.6,12269.0,2025-08-20,YouTube
+1079,17.0,Ahmedabad,Data Science,Female,,59.2,9,67.6,9280.0,2025-08-23,YouTube
+1080,24.0,Pune,Computer Science,Female,7.0,76.7,12,67.1,14700.0,2025-08-26,Google
+1081,19.0,Pune,Mechanical,Female,6.4,86.0,10,50.2,9102.0,2025-08-29,Google
+1082,19.0,Ahmedabad,Computer Science,Male,2.9,78.0,6,25.3,15786.0,2025-09-01,College Event
+1083,17.0,Mumbai,Mechanical,Female,4.2,62.1,15,45.6,14043.0,2025-09-04,College Event
+1084,21.0,Ahmedabad,Data Science,Female,4.8,72.0,13,37.7,15487.0,2025-09-07,Instagram
+1085,23.0,Surat,Electronics,Male,1.7,55.1,15,38.9,4849.0,2025-09-10,College Event
+1086,25.0,Pune,Computer Science,Female,5.2,94.1,4,38.9,14294.0,2025-09-13,Instagram
+1087,23.0,Bengaluru,Mechanical,Female,4.5,58.8,6,39.8,8199.0,2025-09-16,Referral
+1088,25.0,Bengaluru,Computer Science,Male,7.4,81.9,6,52.7,3741.0,2025-09-19,Google
+1089,24.0,Delhi,Mechanical,Female,8.8,99.4,6,48.8,3625.0,2025-09-22,Referral
+1090,18.0,Jaipur,Computer Science,Male,5.4,79.1,4,,13293.0,2025-09-25,College Event
+1091,17.0,Ahmedabad,Mechanical,Male,3.6,96.6,12,,17123.0,2025-09-28,Referral
+1092,23.0,Ahmedabad,Mechanical,Female,1.3,65.6,15,28.2,11882.0,2025-10-01,Referral
+1093,23.0,Delhi,Data Science,Female,8.4,89.2,11,36.5,9264.0,2025-10-04,Referral
+1094,24.0,Delhi,Mechanical,Female,8.4,78.9,15,39.6,7601.0,2025-10-07,College Event
+1095,21.0,Delhi,Data Science,Female,3.0,87.4,5,69.4,14823.0,2025-10-10,Referral
+1096,19.0,Pune,Mechanical,Male,6.6,57.8,10,57.9,15531.0,2025-10-13,Instagram
+1097,24.0,Surat,Electronics,Female,1.6,61.6,14,49.2,16552.0,2025-10-16,College Event
+1098,22.0,Ahmedabad,Electronics,Male,2.3,61.0,11,30.7,,2025-10-19,Referral
+1099,,Pune,Electronics,Female,2.7,85.9,10,46.1,10343.0,2025-10-22,College Event
+1100,17.0,Delhi,Mechanical,Female,3.4,93.0,3,60.2,16710.0,2025-10-25,YouTube
+1101,19.0,Ahmedabad,Data Science,Female,9.0,88.7,9,65.3,2572.0,2025-10-28,Instagram
+1102,21.0,Pune,Data Science,Male,6.6,56.4,9,61.9,17483.0,2025-10-31,Referral
+1103,19.0,Surat,Mechanical,Female,4.1,94.0,8,52.8,7972.0,2025-11-03,YouTube
+1104,17.0,Pune,Electronics,Female,6.9,70.9,9,52.6,12606.0,2025-11-06,YouTube
+1105,21.0,Surat,Electronics,Female,8.3,72.9,15,36.1,7689.0,2025-11-09,College Event
+1106,23.0,Delhi,Data Science,Female,8.7,59.7,4,41.6,4972.0,2025-11-12,YouTube
+1107,23.0,Surat,Electronics,Male,1.5,88.2,14,53.6,13738.0,2025-11-15,Instagram
+1108,25.0,Ahmedabad,Computer Science,Female,4.2,,7,38.5,3207.0,2025-11-18,Instagram
+1109,19.0,Delhi,Data Science,Male,1.9,80.4,2,46.0,4304.0,2025-11-21,Google
+1110,23.0,Ahmedabad,Electronics,Male,3.7,92.8,8,48.7,9204.0,2025-11-24,Instagram
+1111,17.0,Bengaluru,Data Science,Male,2.4,59.0,2,59.4,17663.0,2025-11-27,YouTube
+1112,20.0,Mumbai,Computer Science,Male,6.2,79.1,10,55.1,6213.0,2025-11-30,Instagram
+1113,20.0,Surat,Data Science,Male,4.1,65.5,2,49.3,7551.0,2025-12-03,College Event
+1114,21.0,Mumbai,Data Science,Male,2.8,70.4,2,62.3,13256.0,2025-12-06,Google
+1115,23.0,Mumbai,Data Science,Female,3.1,76.3,8,56.2,4975.0,2025-12-09,YouTube
+1116,23.0,Surat,Data Science,Male,3.9,71.0,3,39.9,6110.0,2025-12-12,Google
+1117,20.0,Delhi,Computer Science,Male,3.1,84.2,15,45.9,6755.0,2025-12-15,YouTube
+1118,23.0,Bengaluru,Mechanical,Male,4.6,76.6,6,44.7,16984.0,2025-12-18,College Event
+1119,19.0,Ahmedabad,Data Science,Female,1.3,81.3,9,55.4,13515.0,2025-12-21,Google
+1120,22.0,Pune,Data Science,Female,3.2,88.2,9,50.4,,2025-12-24,Referral
+1121,18.0,Ahmedabad,Electronics,Male,4.3,80.1,4,56.3,4235.0,2025-12-27,YouTube
+1122,25.0,Pune,Data Science,Female,5.8,81.4,8,51.8,12277.0,2025-12-30,Referral
+1123,21.0,Ahmedabad,Electronics,Male,3.2,80.4,4,50.1,10758.0,2026-01-02,Google
+1124,22.0,Surat,Mechanical,Male,2.1,72.0,7,53.9,13753.0,2026-01-05,Referral
+1125,20.0,Bengaluru,Computer Science,Female,1.6,70.2,7,50.4,10479.0,2026-01-08,Referral
+1126,23.0,Pune,Computer Science,Male,8.5,95.5,4,40.4,4928.0,2026-01-11,Google
+1127,25.0,Jaipur,Mechanical,Female,4.3,82.3,8,43.5,14845.0,2026-01-14,College Event
+1128,23.0,Delhi,Computer Science,Female,5.6,66.0,4,40.9,9926.0,2026-01-17,Referral
+1129,17.0,Ahmedabad,Mechanical,Male,8.4,,9,48.1,11033.0,2026-01-20,Referral
+1130,17.0,Ahmedabad,Mechanical,Male,1.7,69.9,11,27.6,7749.0,2026-01-23,College Event
+1131,25.0,Pune,Mechanical,Female,8.0,97.0,5,61.3,13466.0,2026-01-26,Referral
+1132,25.0,Delhi,Computer Science,Male,5.4,55.3,14,53.2,7791.0,2026-01-29,Referral
+1133,20.0,,Electronics,Male,2.3,65.1,2,45.0,5317.0,2026-02-01,Referral
+1134,25.0,Surat,Mechanical,Male,4.3,71.4,5,66.9,13353.0,2026-02-04,Instagram
+1135,19.0,Jaipur,Data Science,Female,7.2,77.0,15,46.3,11924.0,2026-02-07,College Event
+1136,23.0,Surat,Computer Science,Female,4.8,93.3,8,35.0,6374.0,2026-02-10,Referral
+1137,22.0,Surat,Mechanical,Male,8.9,59.0,12,38.5,13093.0,2026-02-13,College Event
+1138,24.0,Surat,Mechanical,Female,4.0,91.3,5,43.1,12186.0,2026-02-16,YouTube
+1139,25.0,Surat,Data Science,Female,7.0,57.5,14,68.9,16609.0,2026-02-19,YouTube
+1140,21.0,Surat,Electronics,Female,4.1,92.9,7,47.3,6711.0,2026-02-22,Referral
+1141,17.0,Bengaluru,Electronics,Female,7.6,57.3,10,60.9,3161.0,2026-02-25,College Event
+1142,19.0,,Electronics,Female,5.6,55.8,2,52.7,14575.0,2026-02-28,College Event
+1143,24.0,Surat,Mechanical,Male,1.5,86.4,14,62.8,16253.0,2026-03-03,College Event
+1144,22.0,Delhi,Mechanical,Male,1.3,99.9,6,42.8,14311.0,2026-03-06,Instagram
+1145,24.0,Delhi,Mechanical,Male,2.1,95.3,12,31.7,17288.0,2026-03-09,YouTube
+1146,25.0,Mumbai,Computer Science,Female,1.1,80.9,8,51.1,12560.0,2026-03-12,College Event
+1147,20.0,Bengaluru,Data Science,Female,1.6,96.3,2,46.2,13026.0,2026-03-15,College Event
+1148,17.0,Surat,Mechanical,Male,6.5,55.2,15,20.2,5874.0,2026-03-18,Instagram
+1149,17.0,Ahmedabad,Data Science,Female,5.3,98.9,5,44.1,11708.0,2026-03-21,Instagram
+1150,20.0,Pune,Data Science,Male,7.0,77.1,7,49.3,15098.0,2026-03-24,College Event
